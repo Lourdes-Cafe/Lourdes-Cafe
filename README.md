@@ -1,11 +1,9 @@
-### Hi there 👋
-
-##Bar de barrio.
-##Cafetería clásica.
-##Panadería y Pastelería con/sin gluten.
-##Jugos de frutas y vegetales orgánicos.
-##Sandwiches.
-##Buena música.
+## Somos un bar de barrio.
+## Cafetería clásica.
+## Panadería y Pastelería con/sin gluten.
+## Jugos de frutas y vegetales orgánicos.
+## Sandwiches.
+## Buena música.
 
 <!--
 **Lourdes-Cafe/Lourdes-Cafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
