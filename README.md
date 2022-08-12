@@ -1,5 +1,5 @@
 # Somos un bar de barrio.
-- [x] ☕ Cafetería clásica
+- [x] ☕ Cafetería clásica.
 - [x] 🍞 🥐 Viennoiserie, alimentos c/s gluten.
 - [x] 🍊Jugos de frutas y vegetales.
 - [x] 🥪 Sandwiches.
