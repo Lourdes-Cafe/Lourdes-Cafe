@@ -1,10 +1,10 @@
 # Somos un bar de barrio.
-- Cafetería clásica.
-- Panadería y Pastelería con/sin gluten.
-- Jugos de frutas y vegetales orgánicos.
-- Sandwiches.
-- Buena música.
-
+[x] ☕ Cafetería clásica
+[x] 🍞 🥐 Viennoiserie, alimentos c/s gluten.
+[x] 🍊Jugos de frutas y vegetales.
+[x] 🥪 Sandwiches.
+[x] 🎶 Buena música.
+- 🕙 Martes a domingos de 10h a 21h
 <!--
 **Lourdes-Cafe/Lourdes-Cafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
